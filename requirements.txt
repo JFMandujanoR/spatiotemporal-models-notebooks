@@ -1,0 +1,14 @@
+numpy
+pandas
+matplotlib
+scipy
+scikit-learn
+statsmodels
+jupyter
+jupytext
+torch
+torchvision
+tqdm
+xarray
+# Optional (neural operators):
+neuraloperator-pytorch
